@@ -260,7 +260,7 @@ plt.legend(['Test loss'])
 plt.title('Test Loss vs Epoch')
 plt.show()
 ```
-Save random initial weights:
+Save the model with all the parameters:
 ```bash
 torch.save(model.state_dict(), 'miniProject1.pt')
 ```

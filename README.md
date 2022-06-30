@@ -3,12 +3,6 @@
 
 Implementation of ResNet architecture to perform image classification and maximize the accuracy on the CIFAR-10 dataset while keeping the trainable parameteres less than 5M.
 
-### Authors
-
-- Drishti Singh (ds6730@nyu.edu)
-- Harshada Sinha (hs4703@nyu.edu)
-- Vaishnavi Rajput (vr2229@nyu.edu)
-
 ## Execution of the code
 
 This code can be executed on google colab.
